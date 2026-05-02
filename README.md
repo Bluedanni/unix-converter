@@ -21,9 +21,12 @@ Built for quick conversion during log analysis and investigations.
 Plain text file with one timestamp per line.
 
 Example:
-1715213600
-1715213665000
-1715213728000000
+
+1750651836.888
+
+1715213634.808
+
+1715213633.147
 
 Invalid lines will be marked as ERROR.
 ## Usage
